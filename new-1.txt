@@ -1,6 +1,2 @@
 แก้งานจาก git102
-<<<<<<< HEAD
-แก้อีกครั้งจาก git102
-=======
 แก้งานที่ main
->>>>>>> e30dc2e (update new-1.txt from branch main)
